@@ -1,1 +1,1 @@
-id = 2020112561
+print("hello world")
